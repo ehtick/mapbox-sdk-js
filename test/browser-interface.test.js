@@ -1,5 +1,5 @@
 /**
- * @jest-environment jsdom-global
+ * @jest-environment jsdom
  */
 'use strict';
 const mockXHR = require('xhr-mock').default;
